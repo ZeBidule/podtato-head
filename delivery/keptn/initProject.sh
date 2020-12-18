@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 PROJECT="pod-tato-head"
-IMAGE="ZeBidule/podtatohead"
+IMAGE="aguesnon/podtatohead"
 VERSION="$2"
 
 case "$1" in

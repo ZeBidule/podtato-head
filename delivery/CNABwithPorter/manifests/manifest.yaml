@@ -20,7 +20,7 @@ spec:
       terminationGracePeriodSeconds: 5
       containers:
       - name: server
-        image: ZeBidule/podtatohead:latest
+        image: aguesnon/podtatohead:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 9000

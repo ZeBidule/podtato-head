@@ -15,9 +15,9 @@ application delivery. It - for sure - will grow over time. Right now you get the
 * A helm chart for the service and the deployment.
 * Three container images showing different versions
 
-  * ZeBidule/podtatohead:v0.1.0
-  * ZeBidule/podtatohead:v0.1.1
-  * ZeBidule/podtatohead:v0.1.2
+  * aguesnon/podtatohead:v0.1.0
+  * aguesnon/podtatohead:v0.1.1
+  * aguesnon/podtatohead:v0.1.2
 
 ## Scenarios and Use Cases you can test with this repository
 

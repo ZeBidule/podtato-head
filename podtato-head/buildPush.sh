@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPOSITORY="ZeBidule"
+REPOSITORY="aguesnon"
 
 TAG="0.1.0"
 

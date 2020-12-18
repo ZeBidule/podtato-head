@@ -2,7 +2,7 @@
 
 ## Fork the repository
 
-Fork the https://github.com/ZeBidule/podtato-head/ in your GitHub account.
+Fork the https://github.com/aguesnon/podtato-head/ in your GitHub account.
 
 Clone your repository :
 
@@ -18,7 +18,7 @@ Either your IDE "find/replace all" feature or a sed :
 
 ```
 export GITHUB_USER=toto
-find . -type f -not -path "./.git/*" | xargs grep -l ZeBidule | xargs sed -i 's/ZeBidule/'"$GITHUB_USER"'/g'
+find . -type f -not -path "./.git/*" | xargs grep -l ZeBidule | xargs sed -i 's/aguesnon/'"$GITHUB_USER"'/g'
 ```
 
 Commit and push

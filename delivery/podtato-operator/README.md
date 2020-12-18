@@ -35,7 +35,7 @@ This will put everything in values into the CRD. You can find an example in ```.
 
 ### Building the operator image
 
-```make docker-build docker-push IMG=ZeBidule/podtatoperator:latest```
+```make docker-build docker-push IMG=aguesnon/podtatoperator:latest```
 
 ### Installing the 'Podtato' Custom Resource Definition (CRD)
 
@@ -43,7 +43,7 @@ This will put everything in values into the CRD. You can find an example in ```.
 
 ### Installing the operator
 
-```make deploy IMG=ZeBidule/podtatoperator:latest```
+```make deploy IMG=aguesnon/podtatoperator:latest```
 
 ### Installing the 'Podtato' Custom Resource (CR)
 

@@ -285,7 +285,7 @@ From here, you can commit your applications flux manifests in a `apps` directory
 mkdir -p manifests/apps/podtato
 
 flux create source git podtato \
-  --url="https://github.com/ZeBidule/podtato-head" \
+  --url="https://github.com/aguesnon/podtato-head" \
   --branch="main" \
   --interval=1m \
   --export | tee manifests/apps/podtato/podtato-app.yaml
